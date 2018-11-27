@@ -6,6 +6,7 @@ Prerequisites (Anaconda) : <br>
 !pip install cv <br>
 !pip install cv2 <br>
 !pip keras <br>
+!pip install theano <br>
 !pip install tensorflow <br>
 
 Run: <br>
