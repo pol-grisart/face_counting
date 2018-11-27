@@ -6,6 +6,7 @@ Prerequisites (Anaconda) : <br>
 !pip install cv <br>
 !pip install cv2 <br>
 !pip keras <br>
+!pip install tensorflow <br>
 
 Run: <br>
 The test_video_Baguette.ipynb allows you to detect the number of faces on your webcam in real time using a pre-trained model (convolutional neural network)
